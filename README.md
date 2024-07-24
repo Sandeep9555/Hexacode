@@ -1,6 +1,5 @@
-# Let's create a README.md file with the provided content
 
-readme_content = """
+
 # Hexacode
 
 Hexacode is a React-based project that provides real-time communication features using Express and Socket.IO. It includes functionalities such as code editing, user avatars, and toast notifications, with comprehensive routing.
